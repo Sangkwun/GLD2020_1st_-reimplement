@@ -1,0 +1,7 @@
+{   
+    "data_dir": "./data/train_all",
+    "image_size": [512, 512],
+    "num_classes": 81313,
+    "num_epochs": 2000,
+    "batch_size": 64
+}
